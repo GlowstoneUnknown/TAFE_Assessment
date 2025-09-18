@@ -77,7 +77,15 @@ a:hover .site-logo {
     opacity: 0;
 }
 
+.site-logo:hover { 
+    opacity: 0;
+}
+
 a:hover .slh {
+    opacity: 1;
+}
+
+.slh:hover {
     opacity: 1;
 }
 
