@@ -1,6 +1,7 @@
 
 
 /*--- General site layout + default styling ---*/
+@import url('https://fonts.cdnfonts.com/css/trebuchet-ms-2');
 
 body {
     margin: 0;
@@ -219,4 +220,5 @@ input[type='submit'] {
 .form-description {
     margin-bottom: 1.5em;
 }
+
 
